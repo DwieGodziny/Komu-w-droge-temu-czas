@@ -1,1 +1,1 @@
-# Komu-w-droge-temu-czas
+# Komu w droge temu czas
