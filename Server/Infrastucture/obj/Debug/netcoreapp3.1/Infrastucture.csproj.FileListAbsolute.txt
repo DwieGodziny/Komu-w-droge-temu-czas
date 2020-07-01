@@ -1,0 +1,12 @@
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\obj\Debug\netcoreapp3.1\Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\obj\Debug\netcoreapp3.1\Infrastucture.AssemblyInfoInputs.cache
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\obj\Debug\netcoreapp3.1\Infrastucture.AssemblyInfo.cs
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\bin\Debug\netcoreapp3.1\Infrastucture.exe
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\bin\Debug\netcoreapp3.1\Infrastucture.deps.json
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\bin\Debug\netcoreapp3.1\Infrastucture.runtimeconfig.json
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\bin\Debug\netcoreapp3.1\Infrastucture.runtimeconfig.dev.json
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\bin\Debug\netcoreapp3.1\Infrastucture.dll
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\bin\Debug\netcoreapp3.1\Infrastucture.pdb
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\obj\Debug\netcoreapp3.1\Infrastucture.dll
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\obj\Debug\netcoreapp3.1\Infrastucture.pdb
+C:\Users\wieck\Documents\New\Komu-w-droge-temu-czas\Server\Infrastucture\obj\Debug\netcoreapp3.1\Infrastucture.genruntimeconfig.cache
