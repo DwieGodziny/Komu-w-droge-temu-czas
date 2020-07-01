@@ -16,7 +16,7 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
-.vs/
+.vs\
 .vscode/
 tools/
 !tools/packages.config
