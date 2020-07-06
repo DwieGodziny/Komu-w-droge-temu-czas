@@ -1,7 +1,9 @@
-before_script: cd Server
+before_install: 
+- cd ./Server
+- ls
 
 language: csharp
-solution: KomuWDrogeTemuCzasServer.sln
+solution: ./Server/KomuWDrogeTemuCzasServer.sln
 
 jobs:
   include:
@@ -10,9 +12,9 @@ jobs:
     - mono: latest
 
 install:
-  - nuget restore KomuWDrogeTemuCzasServer.sln
+  - nuget restore ./Server/KomuWDrogeTemuCzasServer.sln
   - nuget install NUnit.Console -Version 3.11.1 -OutputDirectory testrunner
 
 script:
-  - msbuild /p:Configuration=Release KomuWDrogeTemuCzasServer.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe ./KomuWDrogeTemuCzasTests/bin/Release/KomuWDrogeTemuCzasTests.dll
+  - msbuild /p:Configuration=Release ./Server/KomuWDrogeTemuCzasServer.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe ./Server/KomuWDrogeTemuCzasTests/bin/Release/KomuWDrogeTemuCzasTests.dll
