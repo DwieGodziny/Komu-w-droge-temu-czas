@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security;
-using System.Text;
-
+﻿
 namespace Core.Domain
 {
+    #region Usings
+
+    using System;
+    using System.Security;
+
+    #endregion
+
     /// <summary>
     ///     Represents the user entity.
     /// </summary>
