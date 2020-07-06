@@ -1,3 +1,5 @@
+before_script: cd Server
+
 language: csharp
 solution: KomuWDrogeTemuCzasServer.sln
 
