@@ -1,8 +1,8 @@
 using NUnit.Framework;
 
-namespace KomuWDrogeTemuCzasTests
+namespace KomuWDrogeTemuCzasTests.User
 {
-    public class Tests
+    public class User
     {
         [SetUp]
         public void Setup()
