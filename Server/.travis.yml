@@ -1,0 +1,16 @@
+language: csharp
+solution: KomuWDrogeTemuCzasServer.sln
+
+jobs:
+  include:
+    - dotnet: 2.1.502
+      mono: none
+    - mono: latest
+
+install:
+  - nuget restore KomuWDrogeTemuCzasServer.sln
+  - nuget install NUnit.Console -Version 3.11.1 -OutputDirectory testrunner
+
+script:
+  - msbuild /p:Configuration=Release KomuWDrogeTemuCzasServer.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe ./KomuWDrogeTemuCzasTests/bin/Release/KomuWDrogeTemuCzasTests.dll
