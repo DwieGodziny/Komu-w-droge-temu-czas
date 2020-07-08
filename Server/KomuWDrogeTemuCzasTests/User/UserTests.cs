@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace KomuWDrogeTemuCzasTests.User
+namespace ApplicationTests.Tests.User
 {
     public class User
     {
