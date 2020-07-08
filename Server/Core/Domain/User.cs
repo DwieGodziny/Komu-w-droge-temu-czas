@@ -1,5 +1,4 @@
-﻿
-namespace Core.Domain
+﻿namespace Core.Domain
 {
     #region Usings
 
@@ -26,9 +25,19 @@ namespace Core.Domain
         public string UserName { get; set; }
 
         /// <summary>
-        ///     The user password
+        ///     The user password.
         /// </summary>
         public SecureString Password { get; set; }
+
+        /// <summary>
+        ///     The user creation date.
+        /// </summary>
+        public DateTime CreatedAt { get; set; }
+
+        /// <summary>
+        ///     The user modification date.
+        /// </summary>
+        public DateTime ModifiedAt { get; set; }
 
         #endregion
     }
