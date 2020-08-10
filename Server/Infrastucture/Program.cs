@@ -1,4 +1,4 @@
-﻿namespace Application.Infrastucture
+﻿namespace Infrastucture
 {
     public class Program
     {

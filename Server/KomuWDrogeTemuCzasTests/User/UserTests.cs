@@ -1,7 +1,11 @@
-using NUnit.Framework;
-
-namespace ApplicationTests.Tests.User
+namespace Tests.User
 {
+    #region Usings
+
+    using NUnit.Framework;
+
+    #endregion
+
     public class User
     {
         [SetUp]

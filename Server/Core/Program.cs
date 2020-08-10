@@ -1,4 +1,4 @@
-﻿namespace Application.Core
+﻿namespace Core
 {
     public class Program
     {

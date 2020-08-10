@@ -1,4 +1,4 @@
-﻿namespace Application.Core.Domain
+﻿namespace Core.Domain
 {
     #region Usings
 
