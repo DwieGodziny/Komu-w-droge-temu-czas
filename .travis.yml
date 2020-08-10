@@ -1,4 +1,4 @@
-before_install: 
+before_install:
 - cd Server
 
 language: csharp
@@ -11,4 +11,4 @@ install:
 
 script:
   - dotnet build
-  - dotnet test KomuWDrogeTemuCzasTests/KomuWDrogeTemuCzasTests.csproj
+  - dotnet test KomuWDrogeTemuCzasTests/Tests.csproj
