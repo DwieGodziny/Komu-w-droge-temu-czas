@@ -2,7 +2,7 @@ namespace WebApp
 {
     #region Usings
 
-    using Application.WebApp;
+    using WebApp;
 
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.Extensions.Hosting;

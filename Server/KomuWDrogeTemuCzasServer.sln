@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "KomuWDrogeTemuCza
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{8DA2E18C-7CF0-46D4-9B8B-1F060C3CDC2F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastucture", "Infrastucture\Infrastucture.csproj", "{97908244-0ABC-4506-B7D8-79254A55B1C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastucture\Infrastructure.csproj", "{97908244-0ABC-4506-B7D8-79254A55B1C4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "KomuWDrogeTemuCzasTests\Tests.csproj", "{C1C55740-F208-4E96-82D7-D7A23B506026}"
 	ProjectSection(ProjectDependencies) = postProject
