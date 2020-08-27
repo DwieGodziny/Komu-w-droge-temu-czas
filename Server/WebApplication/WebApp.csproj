@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>WebApp</AssemblyName>
     <RootNamespace>WebApp</RootNamespace>
+    <StartupObject>WebApp.Program</StartupObject>
   </PropertyGroup>
 
 
