@@ -11,4 +11,4 @@ install:
 
 script:
   - dotnet build
-  - dotnet test KomuWDrogeTemuCzasTests/Tests.csproj
+  - dotnet test UnitTests/Tests.csproj
